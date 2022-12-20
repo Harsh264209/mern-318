@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+.card{
+    /* border: 1px solid grey; */
+    /* border-radius: 16px; */
+    width: 320px;
+    height: 480px;
+    margin-top: 150px;
+    margin-left: 390px;
+    font-family: 'Rubik Distressed', cursive;
+    justify-content: center;
+}
+/* /* .img{
+    width: 380px;
+    height: 450px;
+    margin-top: 250px;
+    margin-left: 370px;
+    font-family: 'Rubik Distressed', cursive;
+    /* border-radius: 16px; */
+    margin: 10px 10px;
+    box-sizing: border-box;
+    cursor: pointer; */
+    justify-content: center;
+    
+} */
+.class{
+    justify-content: center;
+}
+.p{
+    margin-top: 100px;
+}
